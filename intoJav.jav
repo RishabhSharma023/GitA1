@@ -16,7 +16,7 @@ public class Main {
       if (time<10){
       System.out.print("t = " + time  +"     " + totalD+"m\n");}
       if (time>10){
-        System.out.print("t ="+ time+"     " + totalD+"m\n" );
+        System.out.print("t ="+ time+"     " + totalD+"m\n" ); 
       }
       
       
@@ -24,7 +24,6 @@ public class Main {
   }
 
   // @Test
-  // void addition() {
-  //     assertEquals(2, 1 + 1);
+  // void addit
   // }
 }
