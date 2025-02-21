@@ -4,3 +4,4 @@ I used java to make a simulator for the time it took for a runner to complete a 
 I used python to print a hello world statement and count.
 Added Headings of different colors
 Deleted tertiary branch and renamed to third
+Realize that I need to push to certain sub branch I am on vs always master
