@@ -3,4 +3,4 @@ I have a picture of Messi to use for HTML website like a Wiki page
 I used java to make a simulator for the time it took for a runner to complete a 100 m dash.
 I used python to print a hello world statement and count.
 Added Headings of different colors
-Third Branch
+Deleted tertiary branch and renamed to third
